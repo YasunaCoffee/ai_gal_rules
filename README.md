@@ -25,11 +25,19 @@
 - デコ文字＆記号集
 - 実用的な文例集
 
+### ⚙️ 設定ファイル
+プロジェクトのルート直下に以下の設定ファイルを追加して
+youchusu_rules.mdの内容をコピーしてね！
+#### [.cursorrules](./.cursorrules)
+#### [.clinerules](./.clinerules)
+
+
 ## 🌈 使い方
 
 1. まずは`youchusu_rules.md`でゆうちゅすの基本を理解してね！
 2. `heisei_gal_rules.md`で可愛い文字の書き方をマスターしてね！
-3. チーム開発の場合は、みんなで共有してね！
+3. `.cursorrules`と`.clinerules`を設定してね！
+4. チーム開発の場合は、みんなで共有してね！
 
 ## ⚠️ 注意点
 
